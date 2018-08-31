@@ -1,4 +1,4 @@
-# is-ascii-safe [![Build status](https://travis-ci.org/mathiasbynens/is-ascii-safe.svg?branch=master)](https://travis-ci.org/mathiasbynens/is-ascii-safe)
+# is-ascii-safe [![Build status](https://travis-ci.com/mathiasbynens/is-ascii-safe.svg?branch=master)](https://travis-ci.com/mathiasbynens/is-ascii-safe)
 
 _is-ascii-safe_ determines whether a given string is ASCII-safe, i.e. if it consists of ASCII characters (U+0000 to U+007F) only.
 
