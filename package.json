@@ -1,0 +1,33 @@
+{
+	"name": "is-ascii-safe",
+	"version": "0.0.0",
+	"description": "Check if a given string is ASCII-safe, i.e. consists of ASCII characters (U+0000 to U+007F) only.",
+	"homepage": "https://github.com/mathiasbynens/is-ascii-safe",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mathiasbynens/is-ascii-safe.git"
+	},
+	"bugs": "https://github.com/mathiasbynens/is-ascii-safe/issues",
+	"files": [
+		"index.js",
+		"LICENSE",
+		"README.md"
+	],
+	"engines": {
+		"node": ">=8.0.0"
+	},
+	"scripts": {
+		"test": "node tests.js"
+	},
+	"author": {
+		"name": "Mathias Bynens",
+		"url": "https://mathiasbynens.be/"
+	},
+	"license": "Apache-2.0",
+	"keywords": [
+		"unicode",
+		"ascii",
+		"non-ascii",
+		"lint"
+	]
+}
