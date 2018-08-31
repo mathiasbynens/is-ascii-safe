@@ -1,6 +1,6 @@
 {
 	"name": "is-ascii-safe",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "Check if a given string is ASCII-safe, i.e. consists of ASCII characters (U+0000 to U+007F) only.",
 	"homepage": "https://github.com/mathiasbynens/is-ascii-safe",
 	"repository": {
